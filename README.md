@@ -31,7 +31,7 @@ forge script script/DeployKittyMoodNFT.s.sol --rpc-url $SEPOLIA_RPC_URL --privat
 
 ## Deploy on Anvil
 ```
-forge script script/DeployKittyMoodNFT.s.sol --rpc-url $RPC_URL --private-key $ANVIL_PRIVATE_KEY --broadcast
+forge script script/DeployKittyMoodNFT.s.sol --rpc-url $ANVIL_RPC_URL --private-key $ANVIL_PRIVATE_KEY --broadcast
 ```
 
 ## Test on anvil
